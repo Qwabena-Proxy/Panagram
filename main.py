@@ -5,4 +5,3 @@ def is_pangram(s):
         if i not in s.lower():
             return False
     return True
-
